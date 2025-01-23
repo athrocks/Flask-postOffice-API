@@ -1,5 +1,7 @@
 # Post Office Finder
 
+![gif](https://github.com/athrocks/Flask-postOffice-API/blob/main/1.gif)
+
 ## Overview
 A Flask-based web application to find post office details using an Indian postal code (pincode).
 
